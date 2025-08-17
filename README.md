@@ -34,7 +34,7 @@ The Automated Pet Feeder System is designed to dispense pet food at scheduled in
 
 │── README.md               # Project description
 
-│── Step1_Analysis/         # Problem statement, assumptions, inputs/outputs , features, block diagram
+│── Step1_Analysis/         # Problem statement, assumptions, inputs/outputs , features, block                               # diagram
 
 │── Step2_Data/             # Organized data table
 
